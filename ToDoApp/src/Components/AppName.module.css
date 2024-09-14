@@ -1,6 +1,13 @@
 .todoHeading {
+  color:#dddfdc;
   font-weight: 700;
   font-size: 45px;
-  margin: 10px;
-  margin-bottom: 20px;
+  margin: 20px;
+}
+
+.h3{
+  color:#dddfdc;
+  margin-bottom: 50px;
+  text-align: left;
+  margin-left: 100px;
 }
