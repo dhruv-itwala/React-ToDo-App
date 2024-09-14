@@ -4,7 +4,7 @@
 
 Welcome to my **React To-Do App**! This project demonstrates my ability to create interactive, user-friendly applications using React. The app is designed to help users manage their tasks efficiently with features like adding, viewing, filtering, and deleting tasks.
 
-**Live Demo**: [To-Do App](https://your-link-to-the-app.com)
+**Live Demo**: [To-Do App](https://dhruv06122002.github.io/React-ToDo-App/)
 
 ## Features
 
@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dhruv06122002/your-todo-app-repo.git
+   git clone https://github.com/dhruv06122002/React-ToDo-App.git
 
    ```
 
